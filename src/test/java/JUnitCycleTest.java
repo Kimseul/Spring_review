@@ -1,4 +1,4 @@
-package com.example.springbootdeveloper;
+
 import org.junit.jupiter.api.*;
 
 public class JUnitCycleTest {
